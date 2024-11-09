@@ -1,0 +1,9 @@
+.main_container{
+    height: 100% !important;
+}
+
+div{
+    border: 1px red solid;
+    height: 50px;
+    width: 100%;
+}
