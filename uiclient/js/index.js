@@ -7,5 +7,5 @@ function hola(a){
 
 const httpFetch = new HttpFetch('http://localhost:3000');
 httpFetch.obtenerUI('', (datos) => {
-    UIBuilder.build(datos);
+    UIBuilder.build2(datos);
 });

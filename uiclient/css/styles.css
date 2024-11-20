@@ -3,7 +3,14 @@
 }
 
 div{
-    border: 1px red solid;
     height: 50px;
     width: 100%;
+}
+
+#panel1 {
+    border: 1px solid red;
+}
+
+#panel2 {
+    border: 1px solid blue;
 }
